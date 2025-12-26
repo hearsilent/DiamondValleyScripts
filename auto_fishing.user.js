@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Diamond Valley Auto Fishing
 // @namespace    http://tampermonkey.net/
-// @version      2025-12-24
+// @version      2025-12-26
 // @description  Auto fishing in Diamond Valley. Sit back, relax, and let the fish come to you.
 // @author       HearSilent
 // @match        https://diamondvalley.withgoogle.com/intl/ALL_tw/game/*
 // @grant        none
 // @license      MIT
+// @downloadURL  https://github.com/hearsilent/DiamondValleyScripts/raw/refs/heads/main/auto_fishing.user.js
+// @updateURL    https://github.com/hearsilent/DiamondValleyScripts/raw/refs/heads/main/auto_fishing.user.js
 // ==/UserScript==
 
 (function() {
